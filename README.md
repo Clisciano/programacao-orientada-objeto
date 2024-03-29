@@ -1,7 +1,7 @@
-# programacao-orientada-objeto com Python
+# Programacao-orientada-objeto com Python
   Aprendendo conceitos e aplicando na prática. Módulo imersivo em Programação Orientada a Objetos (POO) em Python como o Gabriel Casemiro Software Engineer e professor da RocketSeat. prendendo fundamentos como herança, polimorfismo, encapsulamento e decoradores. Cada aula aprofunda os conceitos, proporcionando uma base sólida que é aplicada em um Projeto prático. aplicando conhecimento adquirido. Tendo como proposito final dominar POO em Python para aplicação eficaz em projetos futuros.
 
-# Objetivo:
+# Objetivo
   Focar na programação orientado objeto. Pois esse coneito extremanente importante.
   Apender o que é POO. Quais os pilareres. Como podemos ulitizar a POO para criar boas aplicações.
   Desenvolver um projeto 100% funcional:  Um jogo de combate em turnos em Python. Tudo criado com classes e objetos. Focado em aplicar todos os conceitos POO.
