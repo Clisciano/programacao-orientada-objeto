@@ -20,6 +20,17 @@
   A cada turno o herói e inimigo atacam.
   O jogo acaba quando o Herói ou inimigo ficarem sem pontos de vida
 
+# Script
+  Este script Python é um jogo de texto simples onde um herói e um vilão batalham entre si.
+  A classe Personagem é a classe mãe para ambas as classes Heroi e Vilao. Ela contém métodos para obter o nome, a vida e o nível do personagem, bem como métodos para atacar e receber dano.
+  As classes Heroi e Vilao herdam de Personagem e adicionam seus próprios atributos e métodos únicos. 
+  A classe Heroi tem um método de ataque especial, atacar_especial, que causa mais dano do que um ataque regular. 
+  A classe Vilao não tem este ataque especial.
+  A classe Jogo gerencia a lógica do jogo.
+  Ela cria um herói e um vilão e então entra em um loop onde o jogador pode escolher realizar um ataque regular ou um ataque especial.
+  O vilão sempre realiza um ataque regular.
+  O jogo continua até   que o herói ou o vilão não tenha mais vida.
+  O jogo é iniciado criando uma instância da classe Jogo e chamando seu método iniciar_batalha.
 
 # Objetivos alcaçados
   aplicabilidade dos pilares do POO. Com a criação de classes, aplicação do conceito de herança:  Herança simples e multiplas, polimorfismo, encapsulamento, definição de atributos, métodos, decoradores, classes abstradas durante a construção do jogo funcional para fixação desses conceitos.  
